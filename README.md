@@ -1,3 +1,14 @@
 # IE500618-assignment1
 
-Run like you would any other Jupyter notebook.
+Group 13: Magnus Grande, Ida Soldal
+
+## How to run
+
+1. Clone the repository
+2. Install the required packages
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+3. Run the notebook `assignment1.ipynb` in in Jupyter Notebook or Jupyter Lab, or inside an IDE or VSCode with the appropriate extensions installed.
